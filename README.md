@@ -44,6 +44,6 @@ git clone https://github.com/iamwilldev/FaceDetection-PCA-Manhanttan && cd FaceD
 
 ## Support
 
-- You can support the development of Grocery-Store through donations on [GitHub Sponsors]().
+- You can support the development of FaceDetection-PCA-Manhanttan through donations on [GitHub Sponsors]().
 - You can also leave a star on the github for more weebs to know about it.
-- Grocery-Store is open to pull requests, so if you have ideas for improvements, feel free to contribute!
+- FaceDetection-PCA-Manhanttan is open to pull requests, so if you have ideas for improvements, feel free to contribute!
