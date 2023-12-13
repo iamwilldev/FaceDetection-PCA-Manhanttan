@@ -1,4 +1,4 @@
-# Grocery-Store
+# FaceDetection-PCA-Manhanttan
 
 <h1 align="center">
 <img align="center" height="80px" width="80px" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDX9W6wWoAo3RNaRbfJfYCP0YSWLJqEqoFPPQuguOJpTjCDg8gpfOwjwHKsBlAs-ao27FrK_syLwZsniTwyZhGU-6RK5g=w2940-h1606" alt="Kai-icon">
@@ -14,13 +14,7 @@ This is a face detection project using the ORL Database of Faces to obtain the m
   <a href="#support">Support</a> •
 </p>
 
-![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCeMYDQqt0b9GqwzbSDFg8uwproxSJWzAbK6TqIVN-Tp54Txw8VbPhOa31ACWCE1p5CLl_xv_G8BUCwkauPIz1FMh_B=w2940-h1606)
-
-## ORL Database of Faces
-
-| Person Faces                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="500" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQFsXJME6_LSMTudm4U9m6qaseEttTPrD3zpydaQG9UOjJ_DGor1UFxDTmWrKm018w13eURC66y79uJkiB8Pme1v3gFAg=w2940-h1606"> |
+![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQFsXJME6_LSMTudm4U9m6qaseEttTPrD3zpydaQG9UOjJ_DGor1UFxDTmWrKm018w13eURC66y79uJkiB8Pme1v3gFAg=w2940-h1606)
 
 ## Features
 
