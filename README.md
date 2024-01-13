@@ -1,7 +1,7 @@
 # FaceDetection-PCA-Manhanttan
 
 <h1 align="center">
-<img align="center" height="80px" width="80px" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDX9W6wWoAo3RNaRbfJfYCP0YSWLJqEqoFPPQuguOJpTjCDg8gpfOwjwHKsBlAs-ao27FrK_syLwZsniTwyZhGU-6RK5g=w2940-h1606" alt="Kai-icon">
+<img align="center" height="80px" width="80px" src="https://github.com/iamwilldev/Kumpulan-Dataset/blob/cc67a9a3c8f5704a8f63832db0adc7b21c24aec7/Github/kai.png" alt="Kai-icon">
  Kai
 </h1>
 <p align="center">
@@ -14,7 +14,7 @@ This is a face detection project using the ORL Database of Faces to obtain the m
   <a href="#support">Support</a> •
 </p>
 
-![image](https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQFsXJME6_LSMTudm4U9m6qaseEttTPrD3zpydaQG9UOjJ_DGor1UFxDTmWrKm018w13eURC66y79uJkiB8Pme1v3gFAg=w2940-h1606)
+![image](https://github.com/iamwilldev/Kumpulan-Dataset/blob/cc67a9a3c8f5704a8f63832db0adc7b21c24aec7/Github/person.png)
 
 ## Features
 
